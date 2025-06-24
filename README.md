@@ -41,6 +41,17 @@
 <img src="captures/h2Db.png">
 <img src="captures/Test-SQL.png">
 </ul>
+<h3>5. Couche service, DTOs</h3>
+<ul>
+<li><h4>Les DTOs</h4></li>
+<li><h4>CustomerDTO.java</h4></li>
+<img src="captures/CustomerDTO.png">
+<li><h4>BankAccount.java</h4></li>
+<img src="captures/BankAccountDTO.png">
+</ul>
+
+
+
 
 
 
