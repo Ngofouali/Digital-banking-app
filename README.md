@@ -15,4 +15,14 @@
 <li><h4>AccountOperation.java</h4></li>
 <img src="captures/AccountOperation.png">
 </ul>
+<br/>
+<h3>3. Création des interfaces JPA Repository basées sur Spring Data</h3>
+<ul>
+<li><h4>CustomerRepository.java</h4></li>
+<img src="captures/CustomerRepository.png">
+<li><h4>BankAccountRepository.java</h4></li>
+<img src="captures/BankAccountRepository.png">
+<li><h4>AccountOperationRepository.java</h4></li>
+<img src="captures/AccountOperationRepository.png">
+</ul>
 
